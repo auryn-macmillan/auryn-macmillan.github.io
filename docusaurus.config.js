@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Auryn Macmillan',
   tagline: '',
-  url: 'auryn-macmillan.github.io',
+  url: 'https://auryn-macmillan.github.io',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'auryn-macmillan', // Usually your GitHub org/user name.
